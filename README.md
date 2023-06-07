@@ -5,3 +5,7 @@
 
 <img src="https://streak-stats.demolab.com?user=Embrs&theme=highcontrast&border_radius=4&&card_width=400&locale=zh_Hant&date_format=%5BY.%5Dn.j">
 <img src="https://github-profile-trophy.vercel.app/?username=Embrs&theme=onedark">
+
+履歷網站：https://embrs.github.io/its-show-time
+
+後台 DEMO 🚧 施工中 🚧
