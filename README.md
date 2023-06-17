@@ -7,4 +7,5 @@
 
 履歷網站：https://embrs.github.io/its-show-time
 
-後台 DEMO 🚧 施工中 🚧
+後台 DEMO 施工中 🚧 https://embrs.github.io/its-show-time/#/bgm-login 🚧
+
