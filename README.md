@@ -5,7 +5,7 @@
 </div>
 <img src="https://github-profile-trophy.vercel.app/?username=Embrs&theme=onedark">
 
-履歷網站：https://embrs.github.io/its-show-time
+履歷網站：https://embrs.work/
 
-後台 DEMO 施工中 🚧 https://embrs.github.io/its-show-time/#/bgm-login 🚧
+後台 DEMO 施工中 🚧 https://embrs.work/#/bgm-login 🚧
 
